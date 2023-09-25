@@ -1,0 +1,82 @@
+* {
+	background: lightpink;
+}
+
+h1{
+	text-align: center;
+	color: red;
+	text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+h2{
+	text-align: center;
+	color: cadetblue;
+	text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue
+}
+
+p{
+	color: orangered;
+}
+
+a{
+	text-decoration: none;
+	color: mediumpurple;
+}
+
+a:hover{
+	color: lightyellow;
+}
+.contact{
+	text-align: center;
+}
+
+.about-author{
+	text-align: center;
+}
+.code-image-div {
+	text-align: center;
+}
+ 
+.tags-html{
+
+}
+
+.bye {
+	text-align: right;
+	color: dimgrey;
+	text-shadow: whitesmoke 0 -3px;
+}
+
+.elements-html {
+	color: firebrick;
+	padding-left: 550px;
+
+}
+
+
+.motives-paragraph{
+	text-align: center;
+	color: hotpink;
+	font-size: 20px;
+	font-style: italic;
+}
+
+.motives {
+	padding-left: 500px;
+	color: deeppink;
+}
+
+.others-post {
+	margin-top: 50px;
+	padding-left: 550px;
+}
+
+section{
+	border: 2px dotted; black;
+	border-radius: 25px;
+}
+
+li{
+	text-shadow: red 0 -2px;
+	text-decoration: underline;
+}
